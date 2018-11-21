@@ -22,7 +22,7 @@ weight = 7
 # * ai - academic icons (see https://jpswalsh.github.io/academicons/)
 
 [[feature]]
-  icon = "/icons/chat.svg"
+  logo = "/icons/chat.svg"
   # icon_pack = "fab"
   name = "We chat"
   description = "We discuss your writing goals to craft a weekly routine & editing program that work for you."
