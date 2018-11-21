@@ -4,7 +4,7 @@ widget = "hero"
 active = true
 date = 2017-10-15T00:00:00
 
-title = "Academic"
+title = "Writing support for academics with kids."
 
 # Order that this section will appear in.
 weight = 3
@@ -24,7 +24,9 @@ weight = 3
   label = '<i class="fas fa-download"></i> Install Now'
 +++
 
-Writing support for academics with kids. :rocket:
+Write more with a coach.<br>
+Be right more with an editor.<br>
+Get both & save time with Fixagraph.<br>
 <div style="margin-top: -0.5rem;">
   <a id="academic-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">
   Latest release <!-- V -->
