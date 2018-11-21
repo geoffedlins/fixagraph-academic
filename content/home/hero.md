@@ -1,7 +1,7 @@
 +++
 # Hero widget.
 widget = "hero"
-active = false
+active = true
 date = 2017-10-15T00:00:00
 
 title = "Academic"
@@ -24,7 +24,7 @@ weight = 3
   label = '<i class="fas fa-download"></i> Install Now'
 +++
 
-The highly flexible website framework for Hugo with an extensible plugin mechanism. Create a beautifully simple site in under 10 minutes :rocket:
+Writing support for academics with kids. :rocket:
 <div style="margin-top: -0.5rem;">
   <a id="academic-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">
   Latest release <!-- V -->
