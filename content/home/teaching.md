@@ -15,6 +15,5 @@ weight = 60
 
 +++
 
-This is an example of using the *custom* widget to create your own homepage section.
-
-To remove this section, either delete `content/home/teaching.md` or edit the frontmatter of the file to deactivate the widget by setting `active = false`.
+## Write on a schedule 
+The best way to write a lot is to write on a schedule. Let Fixagraph's monthly incentives structure your routine & sustain your daily writing practice.
