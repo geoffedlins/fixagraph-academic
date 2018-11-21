@@ -15,5 +15,5 @@ weight = 60
 
 +++
 
-## Write on a schedule 
-The best way to write a lot is to write on a schedule. Let Fixagraph's monthly incentives structure your routine & sustain your daily writing practice.
+## Write with a purpose
+Work with an unscripted, bot-free guide to manage your attention for a solid hour of writing, creating space in the rest of your day to manage everything else.
